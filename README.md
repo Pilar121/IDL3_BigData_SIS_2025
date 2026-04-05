@@ -115,9 +115,5 @@ Estas tecnologías permiten manejar grandes volúmenes de datos de forma eficien
 
 ---
 
-## 🖼️ Arquitectura
-
-![Arquitectura](arquitectura.png)
-
 Arreglar nombre del README
 
