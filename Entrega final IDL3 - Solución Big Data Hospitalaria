@@ -1,0 +1,112 @@
+# 🏥 Caso Práctico IDL3 – Solución Big Data en Sistema Hospitalario
+
+---
+
+## 📌 Introducción
+Este proyecto propone una solución Big Data para un sistema hospitalario que enfrenta problemas en la gestión de grandes volúmenes de datos, buscando mejorar la eficiencia, escalabilidad y análisis en tiempo real.
+
+---
+
+## 1. Identificación de requisitos y desafíos
+
+### 🔴 Desafíos:
+- Gran volumen de datos clínicos y administrativos  
+- Acceso lento a historiales médicos  
+- Falta de integración entre áreas hospitalarias  
+- Crecimiento proyectado del 50% en los próximos años  
+- Riesgos en seguridad de datos sensibles  
+
+### ✅ Requisitos:
+- Procesamiento rápido de datos  
+- Escalabilidad del sistema  
+- Integración de múltiples fuentes  
+- Análisis en tiempo real  
+- Seguridad y privacidad de la información  
+
+---
+
+## 2. Propuesta de solución personalizada
+
+### 🧩 Arquitectura Big Data:
+1. Ingesta de datos desde sistemas hospitalarios  
+2. Almacenamiento distribuido en Hadoop (HDFS)  
+3. Procesamiento con Apache Spark  
+4. Visualización mediante dashboards  
+
+### 🎯 Características:
+- Alta disponibilidad  
+- Procesamiento distribuido  
+- Escalabilidad  
+
+---
+
+## 3. Pruebas de escalabilidad
+
+### 📊 Estrategia:
+- Simulación de crecimiento del 50% en datos  
+- Pruebas con múltiples usuarios concurrentes  
+- Evaluación de rendimiento del sistema  
+
+### 📈 Métricas:
+- Tiempo de respuesta  
+- Uso de CPU y memoria  
+- Latencia  
+- Capacidad de almacenamiento  
+
+---
+
+## 4. Integración de tecnologías
+
+### ⚙️ Herramientas:
+- Hadoop → almacenamiento distribuido  
+- Apache Spark → procesamiento rápido  
+- MongoDB → datos no estructurados  
+- Python / SQL → análisis de datos  
+- Power BI → visualización  
+
+### ✅ Justificación:
+Estas tecnologías permiten gestionar grandes volúmenes de datos de forma eficiente, siendo adecuadas para el sector salud por su capacidad de escalabilidad y procesamiento en tiempo real.
+
+---
+
+## 5. Estrategias de mejora continua
+
+### 🔄 Plan:
+- Monitoreo constante del sistema  
+- Optimización de procesos  
+- Actualización de tecnologías  
+- Mejora del rendimiento  
+
+### 🔐 Seguridad:
+- Encriptación de datos  
+- Control de accesos  
+- Protección de datos sensibles  
+
+---
+
+## 6. Impacto esperado
+
+- Mejora en la atención al paciente  
+- Reducción de tiempos de respuesta  
+- Toma de decisiones en tiempo real  
+- Mayor eficiencia operativa  
+
+---
+
+## 7. Comparación
+
+### Antes:
+- Procesamiento lento  
+- Datos fragmentados  
+- Baja eficiencia  
+
+### Después:
+- Procesamiento rápido  
+- Datos integrados  
+- Sistema escalable  
+
+---
+
+## 📚 Referencias
+- Documentación de Hadoop  
+- Documentación de Apache Spark  
