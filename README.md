@@ -1,27 +1,30 @@
-# Caso Propuesto IDL3 – Solución Big Data  
-### Autora: Cotera Huamán Pilar Sandy
+# Caso Propuesto IDL3 – Solución Big Data
 
-Este repositorio contiene la solución completa del **Caso Propuesto IDL3**, incluyendo:
+## 1. Descripción del problema
+Explica qué problema del SIS estás resolviendo.
 
-##  Contenido del proyecto
-- Informe oficial: *CASO PROPUESTO PILAR.docx*
-- Arquitectura Big Data propuesta
-- Pruebas de escalabilidad para soportar un crecimiento del 50%
-- Integración de tecnologías Big Data
-- Plan de mejora continua
-- Carpetas organizadas para documentación, código y data
+## 2. Objetivo
+Qué busca lograr la solución.
 
-##  Estructura del Repositorio
-- `/documentacion` → Documentos del trabajo (Word, PDF, imágenes)
-- `/codigo` → Scripts del pipeline (Bronze, Silver, Gold)
-- `/data` → Archivos de datos o muestras usadas
+## 3. Arquitectura propuesta
+Describe:
+- Ingesta de datos
+- Procesamiento
+- Almacenamiento
+- Visualización
 
-## Objetivo del Caso
-Desarrollar una solución Big Data escalable, eficiente e integrada para mejorar la gestión y análisis de datos del sector salud.
+## 4. Tecnologías usadas
+Ejemplo:
+- Hadoop / Spark
+- Kafka
+- AWS / Azure / GCP
+- Python / SQL
 
-## 🛠 Tecnologías utilizadas
-- Python  
-- Pandas  
-- Supabase  
-- SQLAlchemy  
-- GitHub para control de versiones 
+## 5. Flujo de datos
+Paso a paso de cómo viajan los datos.
+
+## 6. Escalabilidad
+Cómo tu solución crece con más datos.
+
+## 7. Conclusión
+Resumen final.
