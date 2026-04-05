@@ -1,30 +1,19 @@
-# Caso Propuesto IDL3 – Solución Big Data
-
 ## 1. Descripción del problema
-Explica qué problema del SIS estás resolviendo.
+El sistema actual presenta dificultades para manejar grandes volúmenes de datos, lo que genera lentitud en el procesamiento y limita el análisis en tiempo real.
 
 ## 2. Objetivo
-Qué busca lograr la solución.
+Implementar una solución Big Data que permita procesar, almacenar y analizar grandes volúmenes de datos de manera eficiente.
 
-## 3. Arquitectura propuesta
-Describe:
-- Ingesta de datos
-- Procesamiento
-- Almacenamiento
-- Visualización
+## 3. Propuesta de solución
+Se propone el uso de tecnologías como Apache Spark y Hadoop para el procesamiento distribuido de datos.
 
-## 4. Tecnologías usadas
-Ejemplo:
-- Hadoop / Spark
-- Kafka
-- AWS / Azure / GCP
-- Python / SQL
+## 4. Tecnologías
+- Apache Spark
+- Hadoop
+- Python
+- SQL
 
-## 5. Flujo de datos
-Paso a paso de cómo viajan los datos.
-
-## 6. Escalabilidad
-Cómo tu solución crece con más datos.
-
-## 7. Conclusión
-Resumen final.
+## 5. Beneficios
+- Mayor velocidad de procesamiento
+- Escalabilidad
+- Mejor toma de decisiones
