@@ -109,6 +109,10 @@ Estas tecnologías permiten manejar grandes volúmenes de datos de forma eficien
 - Documentación oficial de Apache Hadoop  
 - Documentación oficial de Apache Spark  
 
+## Arquitectura
+
+![Arquitectura](arquitectura.png)
+
 ---
 
 ## 🖼️ Arquitectura
