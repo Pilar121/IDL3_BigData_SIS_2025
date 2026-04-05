@@ -17,3 +17,13 @@ Se propone el uso de tecnologías como Apache Spark y Hadoop para el procesamien
 - Mayor velocidad de procesamiento
 - Escalabilidad
 - Mejor toma de decisiones
+
+  ## 6. Arquitectura de la solución
+
+La solución sigue una arquitectura basada en:
+
+1. Ingesta de datos  
+2. Almacenamiento distribuido  
+3. Procesamiento de datos  
+4. Visualización  
+
