@@ -1,7 +1,7 @@
 # Documentación del Proyecto IDL3
 
-En esta carpeta se almacenan los documentos oficiales del proyecto:
-- Informe final en Word
-- PDF (si se genera)
+Aquí se almacenan:
+- CASO PROPUESTO PILAR.docx
+- PDF final (si lo generas)
 - Diagramas de arquitectura
-- Documentos adicionales
+- Documentos de soporte
